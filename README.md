@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://keyrun.pythonanywhere.com/](https://keyrun.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at [https://keyrun1227.github.io/Keyrun1227/](https://keyrun1227.github.io/Keyrun1227/)
 
 - 📝 I regularly write articles on [https://medium.com/@chitturidurgasatyasaikiran](https://medium.com/@chitturidurgasatyasaikiran)
 
