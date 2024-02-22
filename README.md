@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keyrun1227&label=Profile%20views&color=0e75b6&style=flat" alt="keyrun1227" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://keyrun1227.github.io/Keyrun1227/](https://keyrun1227.github.io/Keyrun1227/)
 
